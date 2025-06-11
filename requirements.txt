@@ -1,0 +1,20 @@
+tensorflow
+scikit-learn
+matplotlib
+pandas
+numpy
+tensorflow-datasets
+seaborn
+numpy
+opencv-python
+
+1) Download the requirements.txt File
+2) Navigate to the download folder using:
+     cd Downloads
+3) now write command (in terminal):
+     sudo pip install -r requirements.txt
+4) Dependencies will automatically
+5) Verification:
+    python3
+    import tensorflow as tf
+ if the line is executed (even with warnings) Then installation is successful.
