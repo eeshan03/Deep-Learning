@@ -2,8 +2,6 @@
 
 BE IT (2019 Course) || 414447: Lab Practice IV
 
-Welcome to the repository for your deep learning assignments. Below, you'll find details for each assignment, including the task description.
-
 ## Assignment 1: Study of Deep Learning Packages 📚
 
     Document the distinct features and functionality of deep learning packages, including TensorFlow, Keras, Theano, and PyTorch.
@@ -61,16 +59,3 @@ Datasets: Caltech-101 and CIFAR10
 
 To run the code in these assignments, you need to have Python installed on your system along with the required libraries and dependencies. Make sure to install the necessary packages mentioned in the assignment files. For Tableau, you will need to have Tableau software installed on your machine.
 
-# License 📜
-
-This project is licensed under the MIT License. Feel free to use the code and materials for educational purposes or personal projects.
-
-# Contact ✉️
-
-If you have any questions or suggestions, please feel free to contact:
-
-- Email: Ranjeet - contact [dot] ranjeetkumbhar [at] gmail [dot] com
-
-Feel free to navigate to each assignment's directory for detailed instructions, code, and any additional resources. If you have any questions or need assistance, don't hesitate to reach out. Good luck with your assignments!
-
-<p align="center">Copyright © 2023 Ranjeet Kumbhar</p>
